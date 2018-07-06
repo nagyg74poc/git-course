@@ -1,0 +1,11 @@
+test
+blah blah blah
+yo it's me!
+<<<<<<< HEAD
+
+
+
+asdasdasd
+=======
+kljhaskdjahskdjhsakjdhsad
+>>>>>>> mieeee
